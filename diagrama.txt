@@ -1,0 +1,62 @@
+Usuario
+    Atributos
+        public int Id
+        public string Nome
+        public string Login
+        protected string Senha
+    Metodos
+        public bool Autenticar(string login, string senha)
+        public abstract void Menu()
+
+Gerente
+    Atributos
+        private Estoque _estoque;
+    Metodos
+        public override void Menu()
+        private void MenuCadastrarProduto()
+        private void MenuRegistrarEntrada()
+        private void MenuRemoverProduto()
+        public void CadastrarProduto(Estoque estoque, Produto produto)
+        public void RemoverProduto(Estoque estoque, string nomeProduto)
+        public void RegistrarEntrada(Produto produto, int quantidade, Estoque estoque)
+        public void VisualizarEstoque(Estoque estoque)
+    
+Funcionario
+    Atributos
+        private Estoque _estoque
+    Metodos
+        public override void Menu()
+        private void MenuRegistrarSaida()
+        public void RegistrarSaida(Produto produto, int quantidade)
+        public void VisualizarEstoque(Estoque estoque)
+
+Produto
+    Atributos
+        public int Id
+        public string Nome
+        public string Tipo
+        public int quantidade
+    Metodos
+        public void Adicionar(int qtd)
+        public void Remover(int qtd)
+        public void ConsultarEstoque()
+
+Estoque
+    Atributos
+        private List<Produto> produtos
+    Metodos
+        public void AdicionarProduto(Produto produto)
+        public void RemoverProduto(Produto produto)
+        public Produto BuscarProduto(string nome)
+        public List<Produto> ListarProdutos()
+
+MovimentoEstoque
+    Atributos
+        public int Id
+        public Produto Produto
+        public Usuario Usuario
+        public string TipoMovimento
+        public DateTime DataHora
+        public int Quantidade
+    Metodos
+        public void RegistrarMovimento()

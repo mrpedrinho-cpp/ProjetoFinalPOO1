@@ -1,0 +1,14 @@
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\bin\Debug\net9.0\ProjetoFinalPOO1.exe
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\bin\Debug\net9.0\ProjetoFinalPOO1.deps.json
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\bin\Debug\net9.0\ProjetoFinalPOO1.runtimeconfig.json
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\bin\Debug\net9.0\ProjetoFinalPOO1.dll
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\bin\Debug\net9.0\ProjetoFinalPOO1.pdb
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.AssemblyInfoInputs.cache
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.AssemblyInfo.cs
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.csproj.CoreCompileInputs.cache
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.dll
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\refint\ProjetoFinalPOO1.dll
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.pdb
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ProjetoFinalPOO1.genruntimeconfig.cache
+C:\Faculdade\Programacao Orientada a Objetos I\ProjetoFinalPOO1\obj\Debug\net9.0\ref\ProjetoFinalPOO1.dll
